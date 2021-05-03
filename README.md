@@ -13,12 +13,12 @@ If you're setting a new computer, [here's how to setup](#setup-id_rsa-for-github
 
 Run
 
-`source /dev/stdin <<<"$( curl -sS https://raw.githubusercontent.com/kurko/.dotfiles/master/install )"`
+`source /dev/stdin <<<"$( curl -sS https://raw.githubusercontent.com/euthayna/.dotfiles/master/install )"`
 
 that's all. If it doesn't work, 
 
 ```
-git clone git@github.com:kurko/.dotfiles.git ~/.dotfiles
+git clone git@github.com:euthayna/.dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ./install
 ```
@@ -27,7 +27,7 @@ cd ~/.dotfiles
 
 You can just run the same command
 
-`source /dev/stdin <<<"$( curl -sS https://raw.githubusercontent.com/kurko/.dotfiles/master/install )"`
+`source /dev/stdin <<<"$( curl -sS https://raw.githubusercontent.com/euthayna/.dotfiles/master/install )"`
 
 Or you can
 
